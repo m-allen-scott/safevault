@@ -1,0 +1,13 @@
+# Generated backup files
+backups/
+restore/
+logs/
+
+# Compressed archives
+*.tar.gz
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
